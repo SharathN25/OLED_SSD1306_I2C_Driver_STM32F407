@@ -27,6 +27,6 @@ Only the following functions in the driver contains the STM23F407 MCU Specific c
 
 ## Quick References
 * **[Setting up I2C on STM32F407](https://www.youtube.com/watch?v=1COFk1M2tak)**
-* **[128 x 64 Dot Matrix OLED Driver SSD1306](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)**
+* **[128 x 64 Dot Matrix OLED Driver SSD1306](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf)**
 
 
