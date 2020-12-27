@@ -25,4 +25,8 @@ Only the following functions in the driver contains the STM23F407 MCU Specific c
 4. **void OLED_SSD1306_Send_Data(uint8_t data)** - Send Data to OLED
 5. **HAL_Delay() and void SysTick_Handler(void)** - For time delay (from HAL library).
 
+## Quick References
+* **[Setting up I2C on STM32F407](https://www.youtube.com/watch?v=1COFk1M2tak)**
+* **[128 x 64 Dot Matrix OLED Driver SSD1306](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)**
+
 
